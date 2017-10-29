@@ -76,9 +76,9 @@ Where can I download ready-built releases of Susi AI?
 
 No-where, you must clone the git repository of Susi AI and built it yourself. That's easy, just do
 
--  ``git clone https://github.com/fossasia/susi_server.git``
--  ``cd susi``
--  then see below ("How do I run Susi AI")
+1  ``git clone https://github.com/fossasia/susi_server.git``
+2  ``cd susi``
+3  then see below ("How do I run Susi AI")
 
 How do I install Susi AI with Docker on Google Cloud?
 ----------------------------------
@@ -119,10 +119,10 @@ readme </docs/installation/eclipseSetup.md>`__.
 How do I run Susi AI?
 ------------------
 
--  build Susi (you need to do this only once, see above)
--  run ``bin/start.sh``
--  open ``http://localhost:4000`` in your browser
--  to shut down Susi, run ``bin/stop.sh``
+1  build Susi (you need to do this only once, see above)
+2  run ``bin/start.sh``
+3  open ``http://localhost:4000`` in your browser
+4  to shut down Susi, run ``bin/stop.sh``
 
 How do I configure Susi AI?
 ------------------------
